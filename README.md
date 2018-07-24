@@ -6,7 +6,7 @@ Consulta la temperatura de tu ciudad
 npm install
 ```
 
-###Ejemplo
+### Ejemplo
 ```
 node app -d "San Jose Costa Rica"
 ```
